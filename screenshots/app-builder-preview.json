@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Elementa",
+      "hasCanvas": false,
+      "bodyTextLen": 1427,
+      "bodyTextHash": "ab088c0bb5022467222ccbd82fb9d2e3dff595edee098f169fe0307a33ad2d7f",
+      "bodyTextPrefix": "Elementa The living periodic table Search elements Table Quiz Ra",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Elementa",
+      "hasCanvas": false,
+      "bodyTextLen": 1002,
+      "bodyTextHash": "4161f8542e3de820c6b38bd9f3b31288a3c4fe21b93640a6e742efafaddc4947",
+      "bodyTextPrefix": "Elementa Search elements Category Block Phase Electronegativity ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
